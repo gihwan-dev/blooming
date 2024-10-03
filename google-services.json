@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110967054974",
+    "project_id": "blooming-6a3d8",
+    "storage_bucket": "blooming-6a3d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110967054974:android:e906d0561776cf7ac56e2f",
+        "android_client_info": {
+          "package_name": "app.vercel.dnd_11th_8_frontend.twa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyP3u12_DMt8DPFFy8deU5a7wxnpx3UEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
