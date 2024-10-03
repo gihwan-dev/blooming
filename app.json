@@ -9,7 +9,6 @@
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
-      "resizeMode": "contain",
       "backgroundColor": "#F2F1E5"
     },
     "notification": {
