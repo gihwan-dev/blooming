@@ -1,0 +1,25 @@
+{
+  "cli": {
+    "version": ">= 12.5.1",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {
+      "autoIncrement": true
+    }
+  },
+  "submit": {
+    "production": {
+      "android": {
+        "serviceAccountKeyPath": "blooming-437503-e5dd15e7c504.json"
+      }
+    }
+  }
+}

@@ -10,15 +10,17 @@
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#F2F1E5"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
+      "package": "app.vercel.dnd_11th_8_frontend.twa",
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#F2F1E5"
       }
     },
     "web": {
@@ -31,6 +33,11 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8f2da742-814c-41e6-86f1-fea9d20ee956"
+      }
     }
   }
 }
